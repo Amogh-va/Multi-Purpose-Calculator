@@ -1,0 +1,32 @@
+body{
+    background-color:navajowhite;
+}
+
+h1{
+    text-align:center;
+}
+
+table.t1,th,tr.tr1,td.td1{
+    border-style: solid;
+    border-color:blue;
+    border-width:1.8px;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    background-color:lightcoral;
+    color:white;
+    font-size:1.5vw;
+}
+
+td{
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+td.ent{
+    font-size:larger;
+}
